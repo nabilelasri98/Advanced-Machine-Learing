@@ -6,3 +6,6 @@ The dataset contains information on default payments, demographic factors, credi
 
 ## Assignment 2: Predicting grayscale images of letters P - Z.
 The second assignment consists in the classification of letters from P to Z, by developing a neural network, starting from a dataset containing images of these letters. In addition it is necessary to develop an autoencoder, to extract the most important features from the training data.
+
+## Assignment 3: Designing a CNN architecture and its formation.
+The third assignment consists in the classification of numbers from 0 to 9, developing a convolutional neural network, starting from the MNIST dataset. Moreover there is a constraint in the number of parameters used: maximum 6000.
