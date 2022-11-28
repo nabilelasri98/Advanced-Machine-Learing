@@ -9,3 +9,6 @@ The second assignment consists in the classification of letters from P to Z, by 
 
 ## Assignment 3: Designing a CNN architecture and its formation.
 The third assignment consists in the classification of numbers from 0 to 9, developing a convolutional neural network, starting from the MNIST dataset. Moreover there is a constraint in the number of parameters used: maximum 6000.
+
+## Assignement 4: Transfer Learning using a CNN pretrained on IMAGENET
+The objective of this assignment is to perform transfer learning using a Convolutional Neural Network pretrained on the well-known IMAGENET dataset. The chosen task is the classification of images in 4 classes: neutrophil, eosinophil, monocyte and lymphocyte. The dataset is available on kaggle at the following link: https://www.kaggle.com/paultimothymooney/blood-cells
